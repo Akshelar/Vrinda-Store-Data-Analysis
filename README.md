@@ -1,5 +1,7 @@
-#Vrinda Store Data Analysis
-#Focus was on crafting an annual sales report for 2023 to pave the way for their 2024 success! 💡📈
+**Vrinda Store Data Analysis**
+
+
+Focus was on crafting an annual sales report for 2023 to pave the way for their 2024 success! 💡📈
 
 🧹 **Data Cleaning:** Started by tidying up the dataset to ensure accuracy and consistency—clean data, clear insights!
 
